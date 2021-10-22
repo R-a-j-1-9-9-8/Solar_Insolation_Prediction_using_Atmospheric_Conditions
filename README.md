@@ -1,1 +1,8 @@
-# Solar_Insolation_Prediction_using_Atmospheric_Conditions
+# Solar Insolation Prediction using Atmospheric Conditions
+
+In this project, Solar Insolation value is predicted by using atmospheric condition.
+Solar Insolation means The solar insolation is the actual amount of solar radiation incident upon a unit horizontal surface over a specified time for a given locality.
+
+## Business Case
+
+The techno-economical study for viability of any PV system requires accurately estimating the energy yield with an appropriate mathematical model. Different models were proposed for the prediction of PV module performance. However, these models mostly have a complicatedstructure requiring detailed knowledge of the parameters which are normally unavailable in the manufacturer’s data sheet. Therefore, such models are not suitable for output power calculation. It is the ambient temperature and solar irradiance meteorological data that govern the output of a PV system. Therefore, reliable temperature and radiation data should be readily available for the design of a techno-economically viable photovoltaic system. Because of the difficulties in installation, calibration, maintenance and high cost for measurement of these data, they are either not available or are only partially available at the installation site. Hence, the demand exists for the development of alternative ways to predict them. Solar irradiance is also characteristically variable; because of this, competent strategies of forecasting are required for enabling greater penetration of solar power. Influence of location, weather and other meteorological factors also make forecasting solar irradiance a challenging task. Therefore, for successful integration of solar energy with traditional generation supplies, the ability to accurately forecast solar irradiance is essential.
