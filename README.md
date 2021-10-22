@@ -18,16 +18,12 @@ The techno-economical study for viability of any PV system requires accurately e
 
 ## File Descriptions
 
-<details>
-<a name="File_Description"></a>
-<summary>Show/Hide</summary>
-<br>
     
 * <strong>[ Data ](https://github.com/awesomeahi95/Hotel_Review_NLP/tree/master/Data)</strong>: folder containing all data files
     * <strong>solar_original.csv</strong>: used in [1.Solar_Exploratory_Data_Analysis_and_Feature_Selection.ipynb](https://github.com/R-a-j-1-9-9-8/Solar_Insolation_Prediction_using_Atmospheric_Conditions/blob/main/1.Solar_Exploratory_Data_Analysis_and_Feature_Selection.ipynb) notebook
     * <strong>solar_preprocessed.csv</strong>: used in [2.Solar_Training_and_Prediction.ipynb](https://github.com/R-a-j-1-9-9-8/Solar_Insolation_Prediction_using_Atmospheric_Conditions/blob/main/2.Solar_Training_and_Prediction.ipynb) notebook
 * <strong>[ Models ](https://github.com/R-a-j-1-9-9-8/Solar_Insolation_Prediction_using_Atmospheric_Conditions/blob/main/Model/solar.joblib)</strong>: folder containing trained model (solar.joblib)
 * <strong>[1.Solar_Exploratory_Data_Analysis_and_Feature_Selection.ipynb](https://github.com/R-a-j-1-9-9-8/Solar_Insolation_Prediction_using_Atmospheric_Conditions/blob/main/1.Solar_Exploratory_Data_Analysis_and_Feature_Selection.ipynb)</strong>: notebook describing 
-    *how to collect the data from official website
+    * how to collect the data from official website
 * <strong>[ 2.Further_EDA_and_Preprocessing.ipynb ](https://github.com/awesomeahi95/Hotel_Review_NLP/blob/master/2.Further_EDA_and_Preprocessing.ipynb)</strong>: notebook with feature engineering and nlp preprocessing
 
