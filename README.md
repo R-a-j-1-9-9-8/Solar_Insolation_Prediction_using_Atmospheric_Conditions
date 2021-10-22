@@ -1,0 +1,1 @@
+# Solar_Insolation_Prediction_using_Atmospheric_Conditions
